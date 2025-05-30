@@ -14,7 +14,7 @@ https://github.com/WiktorGruszczynski/PokerAppFrontend
 
 ### 🟢 Game Start  
 ![Start of a poker game – cards dealt](./images/poker1.png)  
-The game begins – cards are dealt, time for the first decisions.
+Beginning of the game.
 
 ---
 
