@@ -1,0 +1,6 @@
+[submodule "PokerAppBackend"]
+	path = PokerAppBackend
+	url = https://github.com/WiktorGruszczynski/PokerAppBackend
+[submodule "PokerAppFrontend"]
+	path = PokerAppFrontend
+	url = https://github.com/WiktorGruszczynski/PokerAppFrontend
